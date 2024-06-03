@@ -1,0 +1,1 @@
+A Parallax website utilizes HTML, CSS, and JavaScript to create an engaging user experience. It employs scrolling effects and layered movement to add depth and dynamism to the design. This approach captivates visitors with visually compelling elements and enhances interaction.
